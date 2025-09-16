@@ -6,14 +6,19 @@
   
 I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently improving my Web Development skills @HumberCollege to bring the best of myself to my clients!
 
-## 📈 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresjosehr&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresjosehr&layout=compact&theme=tokyonight&hide_border=true)
-
 </td>
 </tr>
 </table>
+
+## 📫 ¡Connect with me!
+
+- 🌐 **Portfolio**: [chanansingh.com](https://chanansingh.com)
+- 💼 **LinkedIn**: [/in/warrenchanansingh][(https://www.linkedin.com/in/warrenchanansingh/)]
+- 📧 **Email**: [Contactame](mailto:warren.chanansingh@hotmail.com)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zabocaman.zabocaman) ⭐️ **Like my work? Reach out to me!
 
 
 Fun fact about me: I'm taller than Sabrina Carpenter!

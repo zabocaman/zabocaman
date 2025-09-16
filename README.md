@@ -1,7 +1,11 @@
-## Welcome Strangers! 👋
-I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently improving my Web Development skills @HumberCollege to bring the best of myself to my clients!
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Digital+Strategist;+10%2B+a%C3%B1os+de+experiencia;Angular+%26+Laravel+Expert;Construyendo+el+futuro+web)
+
+## Welcome Strangers! 👋
+
+</td>
+<td width="50%">
+  
+I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently improving my Web Development skills @HumberCollege to bring the best of myself to my clients!
 
 Fun fact about me: I'm taller than Sabrina Carpenter!
 

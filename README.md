@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome Strangers! 👋
+I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently improving my Web Development skills @HumberCollege to bring the best of myself to my clients!
+
+Fun fact about me: I'm taller than Sabrina Carpenter!
 
 <!--
 **zabocaman/zabocaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

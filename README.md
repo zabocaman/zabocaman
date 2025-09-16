@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Digital+Strategist;+10%2B+years+in+marketing;future+web+developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Digital+Strategist;+10%2B+years+in+marketing;Future+Web+Developer)
 
 ## Welcome Strangers! 👋
 

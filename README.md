@@ -1,5 +1,5 @@
 ## Hi, I'm Warren!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Digital+Strategist;+10%2B+years+in+marketing;Future+Web+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Digital+Strategist;+10%2B+years+in+marketing;Performance+Marketer)
 
 </td>
 <td width="50%">

@@ -4,7 +4,7 @@
 </td>
 <td width="50%">
   
-I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently improving my Web Development skills to bring the best of myself to my clients!
+I'm Warren - A Digital Strategist focused on optimizing your digital marketing ecosystem. I'm currently working on developing some crazy fun and useful web-based tech solutions for human challenges. 
 
 </td>
 </tr>

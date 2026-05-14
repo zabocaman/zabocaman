@@ -12,7 +12,7 @@ I'm Warren - A Digital Strategist focused on optimizing your digital marketing e
 
 ## 📫Connect with me!
 
-- 🌐 **Portfolio**: [chanansingh.com](https://chanansingh.com)
+- 🌐 **Portfolio**: [chanansingh.com](https://chanansingh.com) [warrenkendal.com](https://warrenkendal/com)
 - 💼 **LinkedIn**: [My Professional Life](https://www.linkedin.com/in/warrenchanansingh/)
 - 📧 **Email**: [Contact-Me](mailto:warren.chanansingh@hotmail.com)
 
